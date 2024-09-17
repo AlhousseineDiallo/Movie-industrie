@@ -52,6 +52,10 @@ Ce projet vise à analyser l'évolution de l'industrie cinématographique en exa
    - Comparaison des tendances et des performances financières des films par décennie.
 
 ## Résultats
+
+![image](https://github.com/user-attachments/assets/5d612334-9091-4050-ba89-2755382f981e)
+
+
 1. **Évolution des Revenus :**
    - Les revenus des films ont généralement augmenté, avec des pics dans les années 2000 et une stagnation ou diminution récente, probablement due à la montée des plateformes de streaming.
    - Les films avec des budgets plus élevés génèrent souvent plus de revenus, bien que le retour sur investissement ne soit pas toujours proportionnel.
