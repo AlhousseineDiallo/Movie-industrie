@@ -11,6 +11,7 @@ Le projet est structuré comme suit :
   - **data/** : Ce sous-dossier contient les fichiers de données.
     - **data** : Contient un lien pour télécharger les données utilisées pour le projet.
   - **main/** : Contient le notebook Python pour l'analyse exploratoire et le prétraitement des données.
+  - **alternative.R/** : version en R du notebook principale main.ipynb.
 
 ## Contexte
 Ce projet vise à analyser l'évolution de l'industrie cinématographique en examinant les revenus des films sur plusieurs décennies, ainsi que d'autres facteurs influents tels que les acteurs, les genres, et les évaluations des utilisateurs. L'objectif est de déterminer si Netflix est devenu le leader du divertissement et d'identifier les tendances clés de l'industrie.
