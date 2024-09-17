@@ -7,7 +7,7 @@ library(reshape2)
 
 # Charger les données à partir du chemin
 path <- "/content/drive/MyDrive/datasets/movies.csv"
-df <- read_csv(path)
+df <-read_csv(path)
 
 # Regarder un aperçu des données
 df
