@@ -53,7 +53,7 @@ Ce projet vise à analyser l'évolution de l'industrie cinématographique en exa
 
 ## Résultats
 
-![image](https://github.com/user-attachments/assets/5d612334-9091-4050-ba89-2755382f981e)
+![image](https://github.com/user-attachments/assets/85c1e5a0-3501-4c22-afd7-4b3e5ecf9b33)
 
 
 1. **Évolution des Revenus :**
