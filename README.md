@@ -1,3 +1,5 @@
+![dataset-cover](https://github.com/user-attachments/assets/52475837-d768-40a2-8b17-69578fea217c)
+
 # Movie Industrie
 
 ### Structure du Répertoire
