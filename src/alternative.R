@@ -57,7 +57,6 @@ df
 # Supprimer les doublons
 df <- distinct(df)
 
-# Styles de visualisation disponibles dans ggplot2
 # ggplot2 ne possède pas de styles directement comparables à plt.style mais propose des thèmes prédéfinis
 
 # Recherche de corrélation dans les données
@@ -89,7 +88,7 @@ ggplot(melt(correlation_matrix), aes(Var1, Var2, fill = value)) +
 # Analyse des catégories comme 'company'
 head(df)
 
-# Conversion des colonnes 'object' (factor en R) en codes numériques
+# Conversion des colonnes factor en R en codes numériques
 df_num <- df
 for (col_name in names(df_num)) {
   if (class(df_num[[col_name]]) == 'character') {
